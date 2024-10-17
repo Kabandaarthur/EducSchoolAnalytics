@@ -1,0 +1,5 @@
+[2024-10-14 14:57:22] Invalid parameters: class_id=6, exam_type=Activity of Integration 1, term_id=0
+[2024-10-14 14:57:26] Invalid parameters: class_id=6, exam_type=Activity of Integration 2, term_id=0
+[2024-10-14 14:58:19] Invalid parameters: class_id=6, exam_type=Activity of Integration 1, term_id=0
+[2024-10-14 15:02:21] Invalid parameters: Invalid term ID (class_id=6, exam_type=Activity of Integration 1, term_id=0)
+[2024-10-14 15:13:50] Invalid parameters: class_id=6, exam_type=Activity of Integration 1, term_id=0
